@@ -96,5 +96,12 @@ The current fuse box is too small. Upgrade this.
 The new bus bar should have inputs from the alternator, the solar battery controller, the battery, the fuse box, and the shore power.
 
 
+# Voltage
+
+### 12V
+12V is the standard output and should most likely stay this way.
+
+However, if using more then a couple of batteries, storing charge at 24V with DC-DC converters allows faster charging and cheaper solar controllers to be used as they are usually current limited instead of power limited.
+
 
 
